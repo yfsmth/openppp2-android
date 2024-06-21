@@ -150,9 +150,9 @@ public class MainActivity extends PppVpnActivity {
         vpn.key.kl = 10;
         vpn.key.kh = 12;
         vpn.key.protocol = "aes-128-cfb";
-        vpn.key.protocol_key = "N6HMzdUs7IUnYHwq";
+        vpn.key.protocol_key = "qdlzxkgkQDLZXKGK";
         vpn.key.transport = "aes-256-cfb";
-        vpn.key.transport_key = "HWFweXu2g5RVMEpy";
+        vpn.key.transport_key = "qdlzxkgkQDLZXKGK";
         vpn.key.masked = false;
         vpn.key.plaintext = false;
         vpn.key.delta_encode = false;
